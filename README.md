@@ -1,2 +1,6 @@
 # Notes
-Just notes
+
+Notes for:
+
+- Language Engineering
+- Image Processing & Computer Vision
