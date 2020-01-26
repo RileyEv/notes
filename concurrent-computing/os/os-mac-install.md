@@ -15,7 +15,7 @@ I will assume you have already installed:
 3. Install ARM GNU toolchain `brew install RileyEv/homebrew-coms20001/arm-none-eabi-gcc`
 
 ## ⚠️⚠️ Warning
-You will need a modified makefile. This can be found at [here](https://rly.rocks/s/os-mac-makefile)
+You will need a modified makefile. This can be found [here](https://rly.rocks/s/os-mac-makefile)
 
 ⚠️ **KEEP A BACKUP OF THE OLD MAKEFILE**. You will need this to run on lab machines and for submission.
 
