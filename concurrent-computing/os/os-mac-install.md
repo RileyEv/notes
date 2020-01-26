@@ -20,3 +20,5 @@ You will need a modified makefile. This can be found at [here](https://rly.rocks
 ⚠️ KEEP A BACKUP OF THE OLD MAKEFILE. You will need this to run on lab machines and for submission.
 
 This makefile will only work if you have followed the instructions above and you have homebrew installed in the default location. You will also have to use this makefile later on but make modifications as shown in each lab/coursework worksheet.
+
+Changes have been made on lines 15,23,24,29,31,35,52,55
